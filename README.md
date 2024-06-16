@@ -1,6 +1,6 @@
 # Overly Optimized
 This is the official repository for OVOP, thank you for showing interest in the Github. <br>
-To use, please use packwiz<br><br>
+To use, please use packwiz<br>
 
 Modrinth Description:
 
