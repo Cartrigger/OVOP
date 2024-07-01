@@ -75,6 +75,11 @@ hash = "9d76e9b5d107004c51e91c33404a9e22f03770420e3cf6a49bc1393b6f9fe3c3"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "4f05ff13dcf8dca0b031482201fb50d2f3578bdd35a903fa4ebced932923b644"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "9d790daf7f139be1a7e771b7d70e4de5fcc5b3a4212b9dd7aa0ada308fa1c9fd"
 metafile = true

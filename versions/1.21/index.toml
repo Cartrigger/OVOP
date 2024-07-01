@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "be48577ddce9c70b87e1c479ea185bdda3d677f8e408e7f6eb2618e29b3303fe"
+hash = "e9870688b5c78a9cc50f79922fdac81e1999279f5567cd5092952adaf6471313"
 metafile = true
 
 [[files]]
@@ -41,12 +41,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b4ca030148c5e02ee1ce5039ac6f17fd6d727639a082f59934968abceaa1586c"
+hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "191874e7f32413e363fb002b721061b5ed885896e38974738a4f6faf080668de"
+hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
 metafile = true
 
 [[files]]
