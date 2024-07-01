@@ -1,8 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "e479d2171fd78cd81e9353be25b65bd472df34af7803625f2605ccaeb125245e"
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
 metafile = true
 
 [[files]]
@@ -21,6 +30,16 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "b4ca030148c5e02ee1ce5039ac6f17fd6d727639a082f59934968abceaa1586c"
 metafile = true
@@ -28,6 +47,21 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "191874e7f32413e363fb002b721061b5ed885896e38974738a4f6faf080668de"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
 metafile = true
 
 [[files]]
@@ -48,4 +82,14 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7cb74081033769dbc3d65702e4ddcf83e4a8152f7e6122ea50d7e98909c3e549"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "d8e6f0094a243233e66416c418671a891c417f7cfec2df40c1442fa82ec45b0d"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
