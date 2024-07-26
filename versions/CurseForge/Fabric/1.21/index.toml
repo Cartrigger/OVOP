@@ -1,2 +1,76 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "8ea1e889718bb081514ea3e7324256898eeeaebd73f4c8d020e59881c87badee"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "09e8e459ae0d4437cc7bfbdd370cd7b5ac1461feaf232ba3a339f767bb0da231"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "1cb1d21f5ce255ae19f3a091243a15941a6d3fde34715241a88941d7b2581505"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c1113772d5e5ebec4dc8e3558efc0eb4c3889385d083c032ca084a2cd47cfe28"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "d9f2e310134bb9ceaeb04b663da62efdfecf2bb512e248894fd5876314232450"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "f7c9c1bee75968286a4fb6a765f7cd0505fac90cac30a896f76215c1e6d4d8bd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "da637bbc19fa99d116149cc8fa1f23be61c4693062a7b097b87725e4c25b0cdb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "c95b76aed6335673345563f5ccabed7a508b50e46b266c6839fc18787e83016f"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "5404b593f53403b432c3a0a334f93f361ba6851c0ea7b21a83dc59d3fd66b931"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "d1f98c2e250c116d46a21e2ae0caa4660860fa24ccd017ff41776f36c89d8faf"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "276e7e0b6cb6d9ec075be10a555361e9c8a0c39e02bbb161e3c726cd29ba19c6"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "f68332da805db6ff6b3d83008d981fa42eb7640c54bc96e2d675dbbd2eb4364f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a8a83e9e121d535527abcc02d6c2411ead29904365f4b139191e890ec5ce5b51"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "b4eee90e0731ffdcd82cda4467f8dbbaaa651c8cbfab9bfa3c8e3066b440f6ba"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "ca4306853c6033d1a8b4c54043581e28f266d0f30a624546487c45f6d6c829cc"
+metafile = true
