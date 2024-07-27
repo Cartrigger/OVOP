@@ -1,0 +1,105 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "8abcdeb018daf320fb6f268e11b3df1e28731bdb532e1672948fbac65735e7fc"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "48720fa4daacd4b092044f734342fb7ee07d6137d653c3a824d022bf72a08e47"
+metafile = true
+
+[[files]]
+file = "mods/bbrb.pw.toml"
+hash = "f2df95fe5bc44439b99cd0e8575bd251d1e800218208b78cde1d3bbb3a9780e2"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4e596f70957b214851ee57422d421ec59037425f5b209fc5813d44918d91c1b9"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "9185686ae37830d6b98a987da06833a0318f6dc38dcc03747d902577de046341"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b7e6e46a2d481a911df481f6c694c350fd81da871cd646b13e826bdef3a63081"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "d80ddf72ebc03bb698043968c2b06272fbbbcf45927e67083d19e65f322b1ca9"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "481a2ae98615aa79fa02546b5f30fef3b2a5e85e394a74d17bdb409a82c21269"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "1b02ffc524987017adbc0a9413f2b53285f4c55247a0943d7de121c68d714a1f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "8d8efd1b0fdd39724444d3f38573077f82b9f7091376d1c18a52404d7053626c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "d3716e8b83ff2044733b4e58ea266cb3f2957f472d08d015abe6a54e425202e4"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "9d76e9b5d107004c51e91c33404a9e22f03770420e3cf6a49bc1393b6f9fe3c3"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "4f05ff13dcf8dca0b031482201fb50d2f3578bdd35a903fa4ebced932923b644"
+metafile = true
+
+[[files]]
+file = "mods/nvidium.pw.toml"
+hash = "9d790daf7f139be1a7e771b7d70e4de5fcc5b3a4212b9dd7aa0ada308fa1c9fd"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "6001e7980cae0f3f64f1912e213a97de9124eac0823910306dbf47c7cbf79a10"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "174b7b4038141e84a8a08c29d742fe4608574955991b6147b0a5fdac4c6529ff"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "279764a6cd7b6bc637f8d451ecd6fbcdd2be3692d6cd4b722ddf04e179d2bc89"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "00f143ea655549e902548575aff0fbffee69802bfe76a73b35187b05c690af07"
+metafile = true

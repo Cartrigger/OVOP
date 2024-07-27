@@ -1,0 +1,13 @@
+name = "OVOP"
+author = "Cartrigger"
+version = "1.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "138eee763cb5b96d1def60a7d6b1d50e854118a3beea880aef53befaa2cbc103"
+
+[versions]
+fabric = "0.16.0"
+minecraft = "1.21"
