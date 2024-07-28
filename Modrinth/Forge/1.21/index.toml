@@ -1,2 +1,46 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "eca45c729e02623a433e0520ba396d821b924692bbdbc8d53a6eeb8588a64a80"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "047225b2ecdb4fcb3e5f18203ed968a1828b4b7f44d0d50afd3ebff3625b0dd8"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ac87d2fd4d3d151915deb9a04b2ae2803291bb35d0e8fc8d66916f1269fd972a"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "878464c3e677794c46c5841eda638b66ff948945c3b5f313e906e0c9c00f4519"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "dfd430664d767eadf2f24a85e545c46f027d92250d20e57625c24ecdafe4ec06"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "7281bc6bf57f125b1282bbf3218b8bfb984bd223253f8d2cecd0eb09345471f2"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "f571202e62126f80de3cccb49efdb00640b5672b95e170c2c038ad665364a860"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "a4f34a19119e15ac76727a39c0e216217d4cd9e7fd8e4385f0ddb987c12bd6b0"
+metafile = true
