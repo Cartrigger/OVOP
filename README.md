@@ -8,7 +8,7 @@ Modrinth Description:
 
 The no nonsense Modpack for performance only! ✨
 
-<img alt="fabric-api" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/requires/fabric-api_64h.png"><img alt="quilt-standard-libraries" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/requires/quilt-standard-libraries_64h.png">
+<img alt="fabric-api" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy-minimal/requires/fabric-api_64h.png">
 
 ### This modpack comes with the bare essentials.
 This modpack comes with very little so then it is easy to mod your game with zero to no mod incompatibilites, if you want a preconfigured modpack, use [Overly Added](https://modrinth.com/modpack/ovad) for your Vanilla server needs.
