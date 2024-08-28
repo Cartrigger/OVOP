@@ -10,13 +10,8 @@ hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "eca45c729e02623a433e0520ba396d821b924692bbdbc8d53a6eeb8588a64a80"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
-hash = "047225b2ecdb4fcb3e5f18203ed968a1828b4b7f44d0d50afd3ebff3625b0dd8"
+hash = "41b105e7714a1a7dff60eb55dce974997d7d99a4ffcf4d4a697176c1d5563b8c"
 metafile = true
 
 [[files]]
@@ -26,25 +21,35 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "878464c3e677794c46c5841eda638b66ff948945c3b5f313e906e0c9c00f4519"
+hash = "ba15d641ccb38102b9c85cab252ed12d12be5cfc3ce84bb85727806fdc8b8a0b"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "dfd430664d767eadf2f24a85e545c46f027d92250d20e57625c24ecdafe4ec06"
+hash = "8813dbedfb77eaaf60eac0661f12f6ba5bc569e1de1e85d79704bf47dfa999ab"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "7281bc6bf57f125b1282bbf3218b8bfb984bd223253f8d2cecd0eb09345471f2"
+hash = "185bfb2745e513fea5d9424ca953d74a21b4a423e94952ea5bfd5a629e66a105"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "f571202e62126f80de3cccb49efdb00640b5672b95e170c2c038ad665364a860"
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "a24deb572d6a26cfbc8c04736036c4662c792ccb0fcf9ab178817fe47c2ac934"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "a4f34a19119e15ac76727a39c0e216217d4cd9e7fd8e4385f0ddb987c12bd6b0"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "cd4e22c6c6572114f731dcbec91c95fac7d9cc5f51f53a3edb8251dfb1541f48"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "7b88cc9628e1190c27f7cdade99e3914fc3a99b747381f7b2b71588c17eb3411"
 metafile = true

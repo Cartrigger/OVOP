@@ -65,11 +65,6 @@ hash = "85984b4af80646c0d92388512daeb1ef5404ec76b83fd0958103b3b38e98fff1"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "ec4bc8b7c36db2dcf3f19b4e03df845c36e18477739a34531de66e2fa75ef2dc"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "17518c4d04f490c0df697b6c796fd7d81025271dc1b151091b20c81c71e8bd4a"
 metafile = true
