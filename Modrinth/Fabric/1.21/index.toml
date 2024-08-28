@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "755c3e35a269a1979cfeb3bbf67f1b30ad82b620e8c807aacfb585b96a15c027"
+hash = "7d1a2009e73a857e56c3c14ef809fa4624c0ac53a3760dd337aa09a7f2bc1dca"
 metafile = true
 
 [[files]]
