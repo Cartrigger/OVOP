@@ -1,13 +1,13 @@
 name = "NeoOVOP"
 author = "Cartrigger"
-version = "0.0.2"
+version = "0.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b03aecfdaec4947e2233e30c882c8b2f9d83913a6439bb321db9137523f1b5fe"
+hash = "5f6fad9f721ef029306eb3e67fa78a8a633da987273232acf9c590e3df4237e0"
 
 [versions]
-minecraft = "1.21"
-neoforge = "21.0.167"
+minecraft = "1.21.1"
+neoforge = "21.1.56"
