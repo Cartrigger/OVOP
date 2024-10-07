@@ -20,6 +20,11 @@ hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "9e4495c056d7ad01a71fd096e0970b2e76f389539f368c0a935adbef7b173489"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
@@ -41,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f004eac1859218b35a865698a68000b21806709f02b54b2a2ef55ff04a793328"
+hash = "65e636524c7311fe98f308e26a2b67ed2589957aab04313e541c75afd701284a"
 metafile = true
 
 [[files]]
@@ -66,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "8aebf35e69552a0c1e51f406815df59f25baa700a2824e9e26cd0d2a036138a0"
+hash = "e9133c80c483d4741651144ded2937be8454d673f08a720ce568c89c0050345e"
 metafile = true
 
 [[files]]
