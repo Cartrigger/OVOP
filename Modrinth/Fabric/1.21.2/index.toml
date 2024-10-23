@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "38e20fe6e426b121d2b47b637d981f433faf285a471924624f819f3f952e805b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "10099d89b4f98601452870a05495bfce26e81ee1a9a38f4795c376525835a40d"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "a503b576999c0484a8340b23b9e3ea3133e8e80a1271f2d46fb824c814905843"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "0e8348eac8a9a76815770cd7a3358a99a1ffb0148576b3f6598774f1f54e52b4"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "70bc313c5fa5ee15037ecfee907b3d58a5e995ac1e04b2c8303de72d2700abec"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1ecb4ce9935c9943a66bdaae89a183a3d52c7285e27ed142854d798eb09e520d"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "6588442dfef724d2551c6ed435bef9d4a0d2d03c71e9bfb86bfcb113aa544979"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "2b4384af71da7c53830a92baa5b98fa1568cda24bc1b8a30abf0b9685c0863f3"
+metafile = true
