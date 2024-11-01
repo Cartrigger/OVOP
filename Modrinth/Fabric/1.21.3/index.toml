@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "506e3a47306b180a3ea10a47e1d856f76785d68deeafe44834ef1ed179ec59c1"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38e20fe6e426b121d2b47b637d981f433faf285a471924624f819f3f952e805b"
 metafile = true
@@ -8,6 +13,21 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "10099d89b4f98601452870a05495bfce26e81ee1a9a38f4795c376525835a40d"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "80e0bd30f4e1d968f47e24968ca1f4fac8475ba6fa464d6c44b4aebca159be5d"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "f4cbc6a4fb40b783d15b283253a06abbb0ca861b7c3169cdbeacece91ca85a6f"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
@@ -32,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "6588442dfef724d2551c6ed435bef9d4a0d2d03c71e9bfb86bfcb113aa544979"
+hash = "c3422f31543840e1e103a9fefe3e9cab7d884dd95ed4e0aa04ec6a152af4e148"
 metafile = true
 
 [[files]]
