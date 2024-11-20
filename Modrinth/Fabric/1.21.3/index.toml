@@ -11,8 +11,13 @@ hash = "38e20fe6e426b121d2b47b637d981f433faf285a471924624f819f3f952e805b"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "2e71ee44474a88d29b5e02600928bbf11fc74e7ae02d23c73547f0af9e7892e5"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0be762f5af8730650d496ce8d2691c45ac7198f723f08fe39a635f48011d40a4"
+hash = "d21b4d86fef137025e0a9ea494e1eb74abf847005b365172dba12d1a9e619ae4"
 metafile = true
 
 [[files]]
@@ -22,12 +27,17 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f4cbc6a4fb40b783d15b283253a06abbb0ca861b7c3169cdbeacece91ca85a6f"
+hash = "f4e173346a48bc1e0089a9fcf2792076b8b9ef3b557ae04107d3be407c5d3983"
 metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "eb0304f36a99dd0ae2e4d5ca325cca5c26c15772c81622fecd8a11cd7c5e6436"
 metafile = true
 
 [[files]]
@@ -37,17 +47,32 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "a900748c1010c9feb1669e7465ecfd5351c5c73bebba87c63d07449a88066568"
+hash = "68ee8e1215f170fb42d2ae286cbc499aa19e1adf687e10013e1a003b46a0dcb8"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "afb686076014eed0142103cd9ae6b536316888bd3e9ffe9a80c075c97f92ab50"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "1312b083bd8ffaecc4e5ca03f968f1a1080832e4d89386455acc17ae69b1bfde"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "70bc313c5fa5ee15037ecfee907b3d58a5e995ac1e04b2c8303de72d2700abec"
+hash = "b8bfd4b192d221b4afaffad525759cfe9a96ad1fad121e0eb00376b3b27eac74"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "55fe122bbbd284e64fc31fd1fc77f20b86f0e44b9650490a306e19184558659d"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "72db51663f559185e1f999d6f29d277ed7090e595ea51abc484a6fed145a2cbf"
+hash = "a2963fdcd677c0873ba2b06fcafe90bf2391366536911a5fa5ced3e35830f2d1"
 metafile = true
 
 [[files]]
