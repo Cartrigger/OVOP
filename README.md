@@ -4,7 +4,7 @@ To use, please use packwiz<br>
 
 Modrinth Description:
 
-# Perfect Optimizations from 1.19.4 to 1.21.
+# Perfect Optimizations from 1.19.4 to 1.21.4!
 
 The no nonsense Modpack for performance only! ✨
 
