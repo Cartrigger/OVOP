@@ -1,2 +1,10 @@
 name: Modrinth Upload For OVOP
 # Under ARR, do not copy!
+on:
+  workflow_dispatch:
+  push:
+    branches: [ "master" ] 
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
