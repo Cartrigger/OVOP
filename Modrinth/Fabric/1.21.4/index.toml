@@ -1,2 +1,61 @@
 hash-format = "sha256"
-files = []
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "45a0acb4872bb2b008dcbd8bd30ef01928a31f4003712fc3afbf5dec68834e0b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "21f4059a505d3fd0158cbf814ac46a2a7a5987d1c72c76b17fb03ea04d545747"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "ada74e6d4149631f2b442d2f0061b0179feef576bbf4b5cd28bbcc7de1380b7e"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3c63c0bb4c0d0da3e2c3a0992c3d1f12d17cb1c3c953b56ab5ca29403df10613"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "52b25d589bdb56a6b73c086432543f35a8e004cfbefcfb775fb2fd9c74f37962"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "c966b18c956607c0b5dd45fe3d8fd18ebb14a2a2b9d2e54965f0168c2e9ffec2"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "361ecbeb1043cbd7202cf75f6d58603e0f21139428dd566a63321c01b98c2d2b"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "5d53c6c4c1a90271fcbe6f948ccdb0da17d42d21e48c11742513d24cd009d865"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "b8cd9f9a9985fce11bf5fdcd7fc8e571a14214210d242adc8b58cf79f2380551"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "3a0e541097f895f31e52f0eb802fc2bbedddc9045bbfc62c37e99b7d7c6faca8"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "bd8c62897df1d64933e9314f61a1d583c18853db5049e706ac6d4dab1ceb9b54"
+metafile = true
