@@ -8,3 +8,26 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Make packwiz executable
+        run: |
+          chmod +x packwiz
+          chmod +w modrinth
+
+      - name: Determine Latest Version
+        id: determine_version
+        run: |
+          cd modrinth
+          cd fabric
+          LATEST_VERSION=$(ls -d v* | sort -V | tail -n 1)
+          echo "Latest is: $LATEST_VERSION"
+          echo "LATEST_VERSION=$LATEST_VERSION" >> $GITHUB_ENV
+
+      - name: Change Directory
+        run: |
+          cd modrinth/fabric/$LATEST_VERSION
+          ls
+          
