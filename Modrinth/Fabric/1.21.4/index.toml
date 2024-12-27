@@ -36,6 +36,16 @@ hash = "0cc7778a0950d916c44e49886c7524c1206d7e0274816d66eebc8bce5e1ee1b7"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "1f1f933b88a8c5ff9a2311607a54d90170b1484ab7ab6f4341e0c3423b2c613e"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "8cd7ef0e7719d1e7edc6d68a3723ccb13a0b6adcf5fc38346692f725396484b5"
 metafile = true
