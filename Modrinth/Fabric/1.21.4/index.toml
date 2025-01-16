@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/bbrb.pw.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "eecf8822ca5238d426592ec037ae771e2e071971055bc6db38166516be777609"
 metafile = true
 
 [[files]]
@@ -21,12 +21,12 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "5c8570900a48b689ac3cccdc888598787b5fb6dd07cc11c96864c73e3f95ff9a"
+hash = "f605331d864b266407b9d4486a4355febbc80b5e2e6ef75e4d92d45d2b29bc8f"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3df75385043a318f2d5cbf7c2574e3d02364cd9197c0f56d68b3d0bac68c1e4a"
+hash = "ff598f555942476705a5691c20d324cb2c0cacd27729424f94a1a34cb29f75d2"
 metafile = true
 
 [[files]]
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "96ad729064ee109fafa803e5abc713770c2101bc5d83027d8c4f44cd33f8e4c4"
+hash = "96813e2679927717128f9df9b65747c8f93ec76eb976554d8b56d0b9a4baf78f"
 metafile = true
 
 [[files]]
@@ -56,12 +56,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d52adf0f497b3751c74c8897a7ead1cb743469e096aa8852aa9264d88f2d7909"
+hash = "e0ee868032501d71c583621a03fbb7317aa4997c234f5efe59fe498e10e0bf9b"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "6522993f69773c2d12d58014d6a2350b7e0d754be4fdc4a9272056e0c19aa9e2"
+hash = "190da82bace64fdc2a741dd665568ad65d0c82b38e71e219edd3af2c76a1db3b"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "2057649daa10fcdc620dfd60eb0caee54b9ff80c80979564873b422fa94e2ced"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "8fbaa1488c17481e22004a927c766ea4bcbf6551b7aebd3ac4df47715cec6787"
+hash = "2f6deeaf10c0cd2fbd24532d8eebb99e43348d3849ef91a197283b06ff697e8a"
 metafile = true
 
 [[files]]
