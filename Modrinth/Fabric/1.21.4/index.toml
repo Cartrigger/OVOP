@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c7acf68591c9e2e380d2fa7f01bd3b8f37a9e91ee53c59e043c4189a86c162a9"
+hash = "f293bc44a5350f8c10eca8b634e0f2b7f10aa240bad0239a0735a5631cc00091"
 metafile = true
 
 [[files]]
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "c37dcee10bedbb5b6c68c76488d904e9da59431b9d0220566c12ec28c1069212"
+hash = "0c32fe0ba692994312c8934087ea948fb4326cb02412adb646a9f21c37de0ccc"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d6ff2d13b8fec782d3a55207c90470591fd5aa36d4fab3562f8334a66cab60ab"
+hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
 metafile = true
 
 [[files]]
@@ -101,5 +101,5 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "4b7c266cf6c560aec780394f515cbe880c72fb07286f60694823fde3b926f184"
+hash = "e3384cdf4e1bd7f9869278ef734bd28ff942e1cebc18111ecc2004bc2ab15247"
 metafile = true
