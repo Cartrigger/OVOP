@@ -11,7 +11,7 @@ metafile = true
 
 [[files]]
 file = "mods/bbrb.pw.toml"
-hash = "eecf8822ca5238d426592ec037ae771e2e071971055bc6db38166516be777609"
+hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
 metafile = true
 
 [[files]]
@@ -21,17 +21,27 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "72660a323de83e26e5f42a259aa6ec086312cd0870db8dc16e9cbc4cfe9d4fa4"
+hash = "9fb9f5a25c9ac4fd320b743148c049768bffeb38678194c1ab31a1946604ee9c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9b7adaecaf408656fbb6011735c8003fa87a020dcc83783b1e0e71310e462cb3"
+hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f02f413a157cf69274d6e035096b84bc937bec49909a21010c79906eb90d632"
+hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
 
 [[files]]
@@ -50,21 +60,26 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "3975d8351b1a246c8c2e13251ea4f86fee525ae772a51927c37407a88b03defb"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
-hash = "d440eced635ebeb4406267d95d531abef8f35b45adae6f59aad6e3322c21d4e7"
+hash = "0e87c425ed5a205efeacc2a684e4fd186cd3230e40908682dd043b64be256898"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c9f6b6b65c3cae1d386dc3416e8b9f6bbdf6b0f5d51d2273d92d773797c894f6"
+hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
+hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7e779d2c04c75a90512781ade5c929102aae28c02bf0fcd78875111614b82005"
+hash = "dee7712131e72105b1a9dafe6e103308e33023a4a48ec3b3868298d8d6c4ed6c"
 metafile = true
