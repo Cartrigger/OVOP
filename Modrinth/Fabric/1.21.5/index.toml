@@ -6,7 +6,7 @@ hash = "e479d2171fd78cd81e9353be25b65bd472df34af7803625f2605ccaeb125245e"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
 
 [[files]]
@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9fb9f5a25c9ac4fd320b743148c049768bffeb38678194c1ab31a1946604ee9c"
+hash = "a42be0e74df9208d2870a40aa53fcf8bc11f8201973f72259bd0d29185cded91"
 metafile = true
 
 [[files]]
@@ -51,7 +51,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "f08109925ea37a67f4fe60eb44a0bbed52a8a14b9ee56da7173f8116363826b3"
+hash = "8d250e4781a41beb98270b2f36e042415067f92081c6fcf843d7ea89a61b4cdc"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "1f9c70510fe21d5028a900ae31923e12c4bc4d7bbc38937f9c90ef75385ae6b7"
 metafile = true
 
 [[files]]
