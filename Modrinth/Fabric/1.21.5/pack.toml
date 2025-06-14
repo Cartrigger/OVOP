@@ -1,12 +1,12 @@
 name = "Overly Optimized"
 author = "Cartrigger"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "74d6f3ce15283d9e0c11fac25d062b940a992053070f4774434d60bf743d8320"
+hash = "60d83958f6959ad76b5cc267e635b4c687a9970748f5d057be353b25e5575299"
 
 [versions]
 fabric = "0.16.14"

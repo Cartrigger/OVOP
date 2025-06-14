@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a42be0e74df9208d2870a40aa53fcf8bc11f8201973f72259bd0d29185cded91"
+hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
 metafile = true
 
 [[files]]
@@ -30,8 +30,13 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/gputape.pw.toml"
+hash = "aa1301b1e9d45609673fa3a85cf0c087efe49b2b76c4e303ae4d8c0df8f269cd"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
+hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
 metafile = true
 
 [[files]]
@@ -71,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "0e87c425ed5a205efeacc2a684e4fd186cd3230e40908682dd043b64be256898"
+hash = "5740f9047e34375f77e59a94b5a171aa74a6f38bc4a1d4ac6583d922922a6d68"
 metafile = true
 
 [[files]]
