@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/bbrb.pw.toml"
+hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "24ee27482a8ff2e3de6423144131320e79c65b8ba0c4e52e9931f2e1257bdd41"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a9790b94803106e4a07bbe1e72759ec91a18423f10fbede249a7071986fe79d0"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "6cc7fdbe5cf08f29ec6628c945842eea6efb41e9e82c21f24c135175fcd62132"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "fff85cc158bf95b149b0b5ed9375c3c2a9fff58f774c2b00858e5fbcf064714d"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "d9c2fb9e1bf67625d24cd6b6131962059b488384d0defdd256fd9bd06a7d36b4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "05900efb4cdaf32033674639fc83525f47b33afdfb8e693930883cf4842fdc84"
+metafile = true
