@@ -66,21 +66,6 @@ hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "54dd8b88e92786d96c2487b7d6a473fbb7cd4576cec3a543788cfab327ffd623"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fff85cc158bf95b149b0b5ed9375c3c2a9fff58f774c2b00858e5fbcf064714d"
 metafile = true

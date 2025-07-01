@@ -1,0 +1,51 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "2a591dc20bd77776dfb60714a83058719a81301d2dfcacdc96e81136c5611dd9"
+metafile = true
+
+[[files]]
+file = "mods/bbrb.pw.toml"
+hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f147a115ed7b2e1d8d28c349178ed58a381e7edd6d719648eff6333cbf40e88c"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9d6b46943f6ad2518f3acb4598d4afdb74843a069dde3cd7c9fa8dd89723de50"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "78d3414d086eeffc1e271cc189ea7a33d1dc2ed6f570f39e4abe4b33fc0acc58"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "d9c2fb9e1bf67625d24cd6b6131962059b488384d0defdd256fd9bd06a7d36b4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "1b2dee1ebac6f5ca706650c43284503273fdde8056683d6734308542ff272e6e"
+metafile = true
