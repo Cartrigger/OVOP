@@ -1,13 +1,16 @@
 name = "Overly Optimized"
 author = "Cartrigger"
-version = "0.0.1"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2007038ab99899fe4b24b7745cd3d8b3a5c3a7484a798d03562ba6178e2e1c38"
+hash = "6c9c2987d212b979e8becae2ab77e4074868e073a4489fe7634fed91ab394f2e"
 
 [versions]
 fabric = "0.16.14"
 minecraft = "1.21.7"
+
+[options]
+acceptable-game-versions = ["1.21.6"]

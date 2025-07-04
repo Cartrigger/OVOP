@@ -11,8 +11,23 @@ hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "28204de4900d8a33b63369909abded5d81e02451a1496f54a7555cd125a81e70"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f147a115ed7b2e1d8d28c349178ed58a381e7edd6d719648eff6333cbf40e88c"
+hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
@@ -31,6 +46,16 @@ hash = "acc6771f8754ea3ce060a5809c032f880b2b93962a96128b8c9413a801bf6467"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "70676593e513e1499486765b8f654cb5034a20a2642a3bcc61a6f57c9d985972"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "88f9a71bf06f4959b220abab8542e4763747903e9e5ef150c38ae79c83870077"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fcb2b48e962361d11130754a8e2d524a5e5fb4025e18f0135096a95aabc5cb24"
 metafile = true
@@ -38,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "d9c2fb9e1bf67625d24cd6b6131962059b488384d0defdd256fd9bd06a7d36b4"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
 metafile = true
 
 [[files]]
