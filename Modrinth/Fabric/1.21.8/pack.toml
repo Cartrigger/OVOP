@@ -1,12 +1,12 @@
 name = "Overly Optimized"
 author = "UTMG"
-version = "0.0.1"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6552b3c46228a8b2c082c2ec256a6a2789e5766552ee9063a9edef01b49d39cd"
+hash = "2f7f0e9126d2a45721572c5f29cc75ad5e5f73f42d4ddc48949274a172737eaa"
 
 [versions]
 fabric = "0.16.14"
