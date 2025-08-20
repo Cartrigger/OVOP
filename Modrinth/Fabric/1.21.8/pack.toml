@@ -1,6 +1,6 @@
 name = "Overly Optimized"
 author = "UTMG"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -9,7 +9,7 @@ hash-format = "sha256"
 hash = "33960601a590a5b63b75fe7675eb1a7b1a7b2c26c14ce20d6a5fe6c07c99c965"
 
 [versions]
-fabric = "0.16.14"
+fabric = "0.17.2"
 minecraft = "1.21.8"
 
 [options]
