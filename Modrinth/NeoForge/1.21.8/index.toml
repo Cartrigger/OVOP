@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "01013db5d43a8e041bfb70f5f88d4940cc4a6eefd620577df20954bd0ab6004d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a771d1143eaa0370fe7f5bd27c525d846ee341183e11175ae7295e724ba0a4bf"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c63d74160e337597c5c5cd8b33146c7fbbe1763dc84277700cd016f7d1b51590"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "77f3b571c6745420f736735c2b0954225833ba230b2888cf423eaa8cffc2cea0"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "911f53b283733884fdd6e046c365885d6e3f36edf4d38a06eea84fced393120c"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "6d8c2cffdc5db64f6134d6427dd0ac938ec659a56ba8f7655889bfd8b3368239"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "a35f511b93573ee89e3e592bdf639b01b7b5ec503a46e7cea36581e2e2651b98"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4b271c2789417bd4d39b3c530373b248148db27ab0846e888b6ce98a174bd8e6"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "6e25bba92c384d905a10966ea133c97a3c39ac7702e2a792830fafee44356d71"
+metafile = true
