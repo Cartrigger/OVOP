@@ -7,7 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "d297f370d36b9afe3eed3cdabb48c919965ae61237a100d5a04ca17dcd9aa32c"
+hash = "cb1b225bb04b606ab22b2378048f2e040cff6ba9acdd1013daa054abd606b265"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
@@ -17,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dc2880322af594bc8d3d69f9859ba398b7f83aff47bfc9a828347d1535892cae"
+hash = "7adc0d54f139075d8f90dae18ca476753cc3145a70e09c9327736024adfe9b30"
 metafile = true
 
 [[files]]
@@ -27,17 +32,22 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "89804e03d79427fd428a669596a709b43433f07b4a46f3db8defb56fa4aa4fe2"
+hash = "402069ebe33a1f19e6e5c0c0235267b832ba44617f15ddbdc677faf2a2607e38"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "24e4c0afdf00a05ea362f976a395aecd4b3a9f59acf505d51d8fbb3de2fb52f3"
+hash = "0e87ab10adb3db84b1d6d2ce8bdd7158878b56c965055056b10ad6cde2634568"
 metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
 hash = "e9ac87726db4d37ee8f75c811791e115a581bc9ecc92f07ff8011385d45f87a2"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "05e66fdfaf3f922718f38a18090c498d612160d342a7e3846fb7f666cf8bac3d"
 metafile = true
 
 [[files]]
@@ -47,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c06d799c4d0abe75fec8713c790afe331ad04d837fda60a799c7bbf6857da537"
+hash = "80fe8de18aab2ba3399f61c6a74a4ad70e56bf5ed49f5fc0f051190d3ba59f2b"
 metafile = true
 
 [[files]]
