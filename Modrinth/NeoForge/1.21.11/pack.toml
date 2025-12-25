@@ -1,0 +1,13 @@
+name = "Overly Optimized"
+author = "Cart"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ddb4366c8c7222fbdcf36ad61e95cced9212933b9ac65e9f130533034d769500"
+
+[versions]
+minecraft = "1.21.11"
+neoforge = "21.11.13-beta"

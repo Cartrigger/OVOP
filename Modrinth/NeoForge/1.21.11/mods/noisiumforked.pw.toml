@@ -1,0 +1,13 @@
+name = "NoisiumForked"
+filename = "noisium-neoforge-2.8.1+mc1.21.11.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/hasdd01q/versions/C03MVoh7/noisium-neoforge-2.8.1%2Bmc1.21.11.jar"
+hash-format = "sha512"
+hash = "063a9c45aea1d994380a71578c930ca53f300f013983439d3a0bb098205c8d8aee8e240b378a061e243b03bb933a6850cd4525375a2f68603a0646510b0a2efb"
+
+[update]
+[update.modrinth]
+mod-id = "hasdd01q"
+version = "C03MVoh7"
