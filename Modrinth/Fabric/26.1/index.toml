@@ -1,0 +1,46 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "270d646d083ecc615a15db213cd8844ebf25870b6014c9dbe8fee5be294edf40"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3b7f33d3d619dd8de71f3cf76971f7217b182e9c36da3fc86248524af5aae563"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "f1f012cf7cf3fc8cf69de0ba1e083b7dea79820f62f280f35a5d7af176111324"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "4ae774627fde22e748ba11fbce113a13019d9ee519f1b851aaf83f79e8048b2f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "2c95562ff7f5ab2ddda171c024c12d12dc36a9f86c92fe055a3497682e2760b4"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "ae96c055712f25f57f6685cfa6985d603cdd8d4a641a5e48cb0415515600a4f4"
+metafile = true
