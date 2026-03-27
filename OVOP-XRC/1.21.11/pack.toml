@@ -1,0 +1,13 @@
+name = "OVOP-XRC"
+author = "XRCraftMC"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c280bdc211b72e97efb8ecd89d0c6bfe49c8d7fcde016639cd9b14606ff576ec"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.11"
