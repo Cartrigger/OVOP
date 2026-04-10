@@ -1,0 +1,13 @@
+name = "Fast Server Pings"
+filename = "FastServerPings-1.1.0+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5eVpQJSP/versions/oVAPB6Bi/FastServerPings-1.1.0%2B26.1.jar"
+hash-format = "sha512"
+hash = "98a063563a629659277bce07861d9a687097e8602f14b66ac4a3e1c61091ef6f5252f6f02ce5564ec017f9d7ff305e977ddf3092a158eaea8496fa5ee29bec3b"
+
+[update]
+[update.modrinth]
+mod-id = "5eVpQJSP"
+version = "oVAPB6Bi"
